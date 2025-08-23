@@ -1,1 +1,11 @@
 .vs/
+src/Core/PharmacyApp.Application/bin
+src/Core/PharmacyApp.Application/obj
+src/Core/PharmacyApp.Domain/bin
+src/Core/PharmacyApp.Domain/obj
+src/Infrastructure/PharmacyApp.Data/bin
+src/Infrastructure/PharmacyApp.Data/obj
+src/Infrastructure/PharmacyApp.IOC/bin
+src/Infrastructure/PharmacyApp.IOC/obj
+src/Presentation/PharmacyApp.API/bin
+src/Presentation/PharmacyApp.API/obj
