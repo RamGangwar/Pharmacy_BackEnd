@@ -1,0 +1,24 @@
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\bin\Release\net6.0\PharmacyApp.Domain.deps.json
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\bin\Release\net6.0\PharmacyApp.Domain.dll
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\bin\Release\net6.0\PharmacyApp.Domain.pdb
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.csproj.AssemblyReference.cache
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.AssemblyInfoInputs.cache
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.AssemblyInfo.cs
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.csproj.CoreCompileInputs.cache
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.dll
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\refint\PharmacyApp.Domain.dll
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.pdb
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\ref\PharmacyApp.Domain.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\bin\Release\net6.0\PharmacyApp.Domain.deps.json
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\bin\Release\net6.0\PharmacyApp.Domain.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\bin\Release\net6.0\PharmacyApp.Domain.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.csproj.AssemblyReference.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.AssemblyInfoInputs.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.AssemblyInfo.cs
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.csproj.CoreCompileInputs.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\refint\PharmacyApp.Domain.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\PharmacyApp.Domain.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Domain\obj\Release\net6.0\ref\PharmacyApp.Domain.dll

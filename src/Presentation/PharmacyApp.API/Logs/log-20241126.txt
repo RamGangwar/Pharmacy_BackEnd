@@ -1,0 +1,33 @@
+2024-11-26 08:51:55.282 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-26 08:51:55.339 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-26 08:51:55.341 +05:30 [INF] Hosting environment: Development
+2024-11-26 08:51:55.344 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-26 08:53:43.431 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-26 08:53:43.499 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-26 08:53:43.502 +05:30 [INF] Hosting environment: Development
+2024-11-26 08:53:43.505 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-26 09:00:49.118 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-26 09:00:49.156 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-26 09:00:49.158 +05:30 [INF] Hosting environment: Development
+2024-11-26 09:00:49.159 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-26 09:02:37.762 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
+2024-11-26 09:11:39.706 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-26 09:11:39.777 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-26 09:11:39.780 +05:30 [INF] Hosting environment: Development
+2024-11-26 09:11:39.784 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-26 09:12:55.096 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-26 09:12:55.150 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-26 09:12:55.153 +05:30 [INF] Hosting environment: Development
+2024-11-26 09:12:55.156 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-26 21:26:28.562 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-26 21:26:28.657 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-26 21:26:28.661 +05:30 [INF] Hosting environment: Development
+2024-11-26 21:26:28.664 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-26 22:21:59.304 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-26 22:21:59.396 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-26 22:21:59.398 +05:30 [INF] Hosting environment: Development
+2024-11-26 22:21:59.401 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-26 22:48:23.143 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-26 22:48:23.194 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-26 22:48:23.197 +05:30 [INF] Hosting environment: Development
+2024-11-26 22:48:23.199 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\

@@ -1,0 +1,85 @@
+2024-11-21 11:28:48.059 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 11:28:48.095 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 11:28:48.103 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 11:28:48.105 +05:30 [INF] Hosting environment: Development
+2024-11-21 11:28:48.107 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 19:27:11.643 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 19:27:11.721 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 19:27:11.737 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 19:27:11.740 +05:30 [INF] Hosting environment: Development
+2024-11-21 19:27:11.744 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 22:24:23.634 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 22:24:23.722 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 22:24:23.738 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 22:24:23.741 +05:30 [INF] Hosting environment: Development
+2024-11-21 22:24:23.744 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 22:25:05.299 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 22:25:05.344 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 22:25:05.353 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 22:25:05.356 +05:30 [INF] Hosting environment: Development
+2024-11-21 22:25:05.357 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 22:25:16.570 +05:30 [INF] Action :ModuleList , Request :{"RoleId":0,"EmployeeId":0,"IsPermission":false,"$type":"GetModulesByFilterQuery"}
+2024-11-21 22:25:16.621 +05:30 [INF] Handle
+2024-11-21 22:34:54.638 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 22:34:54.839 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 22:34:54.904 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 22:34:54.932 +05:30 [INF] Hosting environment: Development
+2024-11-21 22:34:54.958 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 22:35:04.796 +05:30 [INF] Action :ModuleList , Request :{"RoleId":0,"EmployeeId":0,"IsPermission":false,"$type":"GetModulesByFilterQuery"}
+2024-11-21 22:35:04.834 +05:30 [INF] Handle
+2024-11-21 22:43:04.493 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 22:43:04.543 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 22:43:04.558 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 22:43:04.561 +05:30 [INF] Hosting environment: Development
+2024-11-21 22:43:04.564 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 22:43:14.767 +05:30 [INF] Action :ModuleList , Request :{"RoleId":0,"EmployeeId":0,"IsPermission":false,"$type":"GetModulesByFilterQuery"}
+2024-11-21 22:43:14.808 +05:30 [INF] Handle
+2024-11-21 22:44:22.940 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 22:44:22.993 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 22:44:23.007 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 22:44:23.010 +05:30 [INF] Hosting environment: Development
+2024-11-21 22:44:23.013 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 22:44:30.440 +05:30 [INF] Action :ModuleList , Request :{"RoleId":0,"EmployeeId":0,"IsPermission":false,"$type":"GetModulesByFilterQuery"}
+2024-11-21 22:44:30.468 +05:30 [INF] Handle
+2024-11-21 22:47:51.151 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 22:47:51.227 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 22:47:51.242 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 22:47:51.245 +05:30 [INF] Hosting environment: Development
+2024-11-21 22:47:51.247 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 22:48:01.160 +05:30 [INF] Action :ModuleList , Request :{"RoleId":0,"EmployeeId":0,"IsPermission":false,"$type":"GetModulesByFilterQuery"}
+2024-11-21 22:48:01.196 +05:30 [INF] Handle
+2024-11-21 22:49:01.515 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 22:49:01.574 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 22:49:01.587 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 22:49:01.590 +05:30 [INF] Hosting environment: Development
+2024-11-21 22:49:01.592 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 22:49:11.708 +05:30 [INF] Action :ModuleList , Request :{"RoleId":0,"EmployeeId":0,"IsPermission":false,"$type":"GetModulesByFilterQuery"}
+2024-11-21 22:49:11.737 +05:30 [INF] Handle
+2024-11-21 22:52:26.831 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 22:52:26.881 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 22:52:26.890 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 22:52:26.894 +05:30 [INF] Hosting environment: Development
+2024-11-21 22:52:26.896 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 22:52:36.372 +05:30 [INF] Action :ModuleList , Request :{"RoleId":0,"EmployeeId":0,"IsPermission":false,"$type":"GetModulesByFilterQuery"}
+2024-11-21 22:52:36.412 +05:30 [INF] Handle
+2024-11-21 22:56:10.949 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 22:56:11.291 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 22:56:11.414 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 22:56:11.417 +05:30 [INF] Hosting environment: Development
+2024-11-21 22:56:11.421 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 22:57:34.902 +05:30 [INF] Action :ModuleList , Request :{"RoleId":0,"EmployeeId":0,"IsPermission":false,"$type":"GetModulesByFilterQuery"}
+2024-11-21 22:57:34.952 +05:30 [INF] Handle
+2024-11-21 23:00:07.980 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 23:00:08.029 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 23:00:08.040 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 23:00:08.042 +05:30 [INF] Hosting environment: Development
+2024-11-21 23:00:08.044 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 23:00:29.540 +05:30 [INF] Action :ModuleList , Request :{"RoleId":0,"EmployeeId":0,"IsPermission":false,"$type":"GetModulesByFilterQuery"}
+2024-11-21 23:00:29.569 +05:30 [INF] Handle
+2024-11-21 23:15:02.988 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-21 23:15:03.033 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-21 23:15:03.045 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-21 23:15:03.047 +05:30 [INF] Hosting environment: Development
+2024-11-21 23:15:03.049 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-21 23:15:13.968 +05:30 [INF] Action :ModuleList , Request :{"RoleId":0,"EmployeeId":0,"IsPermission":false,"$type":"GetModulesByFilterQuery"}
+2024-11-21 23:15:13.996 +05:30 [INF] Handle

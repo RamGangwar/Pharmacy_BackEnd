@@ -1,0 +1,177 @@
+2024-11-18 20:19:58.635 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:19:58.688 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:19:58.702 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:19:58.705 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:19:58.707 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:20:02.175 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:20:29.551 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:20:58.375 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:20:58.401 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:20:58.409 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:20:58.411 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:20:58.414 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:20:59.407 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:23:22.881 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:23:24.676 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:25:43.897 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:25:43.926 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:25:43.933 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:25:43.935 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:25:43.936 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:25:44.881 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:25:59.571 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:26:25.796 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:26:28.678 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:26:37.129 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:26:37.175 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:26:37.189 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:26:37.191 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:26:37.194 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:26:38.543 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:33:52.383 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - PharmacyApp.API.Controllers.HomeController.ModuleList (PharmacyApp.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-11-18 20:35:31.860 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:35:31.897 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:35:31.908 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:35:31.912 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:35:31.916 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:36:23.035 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:36:23.072 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:36:23.082 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:36:23.085 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:36:23.089 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:37:36.859 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:37:36.900 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:37:36.911 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:37:36.914 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:37:36.917 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:38:11.633 +05:30 [INF] ModuleList
+2024-11-18 20:38:11.659 +05:30 [INF] Handle
+2024-11-18 20:39:12.938 +05:30 [INF] ModuleList
+2024-11-18 20:39:12.942 +05:30 [INF] Handle
+2024-11-18 20:41:14.960 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:41:14.987 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:41:14.997 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:41:14.999 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:41:15.003 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:41:26.321 +05:30 [INF] ModuleList
+2024-11-18 20:41:26.366 +05:30 [INF] Handle
+2024-11-18 20:43:25.522 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:43:25.549 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:43:25.558 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:43:25.562 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:43:25.565 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:44:13.649 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:44:13.689 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:44:13.700 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:44:13.703 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:44:13.706 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:44:21.790 +05:30 [INF] ModuleList
+2024-11-18 20:44:21.824 +05:30 [INF] Handle
+2024-11-18 20:57:46.748 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 20:57:46.792 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 20:57:46.805 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 20:57:46.809 +05:30 [INF] Hosting environment: Development
+2024-11-18 20:57:46.813 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 20:58:45.350 +05:30 [INF] ModuleList
+2024-11-18 20:58:45.382 +05:30 [INF] Handle
+2024-11-18 21:02:50.316 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 21:02:50.362 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 21:02:50.375 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 21:02:50.379 +05:30 [INF] Hosting environment: Development
+2024-11-18 21:02:50.381 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 21:02:56.258 +05:30 [INF] ModuleList
+2024-11-18 21:02:56.310 +05:30 [INF] Handle
+2024-11-18 21:08:15.843 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 21:08:15.872 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 21:08:15.880 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 21:08:15.883 +05:30 [INF] Hosting environment: Development
+2024-11-18 21:08:15.886 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 21:08:22.677 +05:30 [INF] ModuleList
+2024-11-18 21:08:22.715 +05:30 [INF] Handle
+2024-11-18 21:20:30.721 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 21:20:30.764 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 21:20:30.776 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 21:20:30.779 +05:30 [INF] Hosting environment: Development
+2024-11-18 21:20:30.782 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 21:20:39.060 +05:30 [INF] ModuleList
+2024-11-18 21:20:39.095 +05:30 [INF] Handle
+2024-11-18 21:23:53.646 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 21:23:53.684 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 21:23:53.694 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 21:23:53.698 +05:30 [INF] Hosting environment: Development
+2024-11-18 21:23:53.702 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 21:24:03.025 +05:30 [INF] ModuleList
+2024-11-18 21:24:03.054 +05:30 [INF] Handle
+2024-11-18 21:30:16.629 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-18 21:30:16.680 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-18 21:30:16.701 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-18 21:30:16.703 +05:30 [INF] Hosting environment: Development
+2024-11-18 21:30:16.706 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-18 21:30:23.237 +05:30 [INF] ModuleList
+2024-11-18 21:30:23.301 +05:30 [INF] Handle

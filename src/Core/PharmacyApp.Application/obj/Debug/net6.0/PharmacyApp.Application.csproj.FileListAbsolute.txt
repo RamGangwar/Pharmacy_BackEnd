@@ -1,0 +1,30 @@
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\bin\Debug\net6.0\PharmacyApp.Application.deps.json
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\bin\Debug\net6.0\PharmacyApp.Application.dll
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\bin\Debug\net6.0\PharmacyApp.Application.pdb
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\bin\Debug\net6.0\PharmacyApp.Domain.dll
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\bin\Debug\net6.0\PharmacyApp.Domain.pdb
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.csproj.AssemblyReference.cache
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.AssemblyInfoInputs.cache
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.AssemblyInfo.cs
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.csproj.CoreCompileInputs.cache
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.csproj.CopyComplete
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.dll
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\refint\PharmacyApp.Application.dll
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.pdb
+D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\ref\PharmacyApp.Application.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\bin\Debug\net6.0\PharmacyApp.Application.deps.json
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\bin\Debug\net6.0\PharmacyApp.Application.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\bin\Debug\net6.0\PharmacyApp.Application.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\bin\Debug\net6.0\PharmacyApp.Domain.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\bin\Debug\net6.0\PharmacyApp.Domain.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.csproj.AssemblyReference.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.AssemblyInfoInputs.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.AssemblyInfo.cs
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.csproj.CoreCompileInputs.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.csproj.CopyComplete
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\refint\PharmacyApp.Application.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\PharmacyApp.Application.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\obj\Debug\net6.0\ref\PharmacyApp.Application.dll

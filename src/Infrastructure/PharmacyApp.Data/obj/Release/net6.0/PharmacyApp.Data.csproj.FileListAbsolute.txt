@@ -1,0 +1,34 @@
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.csproj.AssemblyReference.cache
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.AssemblyInfoInputs.cache
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.AssemblyInfo.cs
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.csproj.CoreCompileInputs.cache
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Data.deps.json
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Data.dll
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Data.pdb
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Application.dll
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Domain.dll
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Application.pdb
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Domain.pdb
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.csproj.CopyComplete
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.dll
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\refint\PharmacyApp.Data.dll
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.pdb
+D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\ref\PharmacyApp.Data.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Data.deps.json
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Data.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Data.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Application.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Domain.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Application.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\bin\Release\net6.0\PharmacyApp.Domain.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.csproj.AssemblyReference.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.AssemblyInfoInputs.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.AssemblyInfo.cs
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.csproj.CoreCompileInputs.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.csproj.CopyComplete
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\refint\PharmacyApp.Data.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\PharmacyApp.Data.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\obj\Release\net6.0\ref\PharmacyApp.Data.dll

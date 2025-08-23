@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/FDjK92aXsHJHN2Q97sYvEYE7bEfv9kqkHLRaIJUyXs=",
+  "Source": "PharmacyApp.API",
+  "BasePath": "_content/PharmacyApp.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PharmacyApp.API\\wwwroot",
+      "Source": "PharmacyApp.API",
+      "ContentRoot": "E:\\Drive D Data\\Working Project\\PharmacyApp\\src\\Presentation\\PharmacyApp.API\\wwwroot\\",
+      "BasePath": "_content/PharmacyApp.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

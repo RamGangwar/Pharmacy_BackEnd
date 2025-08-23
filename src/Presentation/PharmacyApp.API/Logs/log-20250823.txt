@@ -1,0 +1,22 @@
+2025-08-23 15:33:42.959 +05:30 [INF] Now listening on: http://localhost:5555
+2025-08-23 15:33:43.019 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-23 15:33:43.022 +05:30 [INF] Hosting environment: Development
+2025-08-23 15:33:43.026 +05:30 [INF] Content root path: E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2025-08-23 16:47:07.525 +05:30 [INF] Now listening on: http://localhost:5555
+2025-08-23 16:47:07.574 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-23 16:47:07.577 +05:30 [INF] Hosting environment: Development
+2025-08-23 16:47:07.580 +05:30 [INF] Content root path: E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2025-08-23 16:53:03.192 +05:30 [INF] Now listening on: http://localhost:5555
+2025-08-23 16:53:03.233 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-23 16:53:03.236 +05:30 [INF] Hosting environment: Development
+2025-08-23 16:53:03.240 +05:30 [INF] Content root path: E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2025-08-23 16:55:18.719 +05:30 [INF] Now listening on: http://localhost:5555
+2025-08-23 16:55:18.758 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-23 16:55:18.762 +05:30 [INF] Hosting environment: Development
+2025-08-23 16:55:18.765 +05:30 [INF] Content root path: E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2025-08-23 17:18:56.713 +05:30 [INF] Now listening on: http://localhost:5555
+2025-08-23 17:18:56.806 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-23 17:18:56.810 +05:30 [INF] Hosting environment: Development
+2025-08-23 17:18:56.813 +05:30 [INF] Content root path: E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2025-08-23 17:19:19.644 +05:30 [INF] Action :DeleteSupplier , Request :{"SupplierId":789,"$type":"DeleteSuppliersCommand"}
+2025-08-23 17:19:19.716 +05:30 [INF] Handle

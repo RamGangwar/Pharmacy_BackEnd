@@ -1,0 +1,10 @@
+2024-12-15 19:07:16.863 +05:30 [INF] Now listening on: https://localhost:5001
+2024-12-15 19:07:16.919 +05:30 [INF] Now listening on: http://localhost:5000
+2024-12-15 19:07:16.931 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-15 19:07:16.934 +05:30 [INF] Hosting environment: Development
+2024-12-15 19:07:16.937 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-12-15 19:08:43.052 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"896453","IpAddress":"","$type":"AuthenticationRequest"}
+2024-12-15 19:09:06.277 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
+2024-12-15 19:11:12.892 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
+2024-12-15 19:14:05.693 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"1235","IpAddress":"","$type":"AuthenticationRequest"}
+2024-12-15 19:14:25.019 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}

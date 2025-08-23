@@ -1,0 +1,4 @@
+2024-11-22 21:09:35.030 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-22 21:09:35.069 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-22 21:09:35.071 +05:30 [INF] Hosting environment: Production
+2024-11-22 21:09:35.073 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\

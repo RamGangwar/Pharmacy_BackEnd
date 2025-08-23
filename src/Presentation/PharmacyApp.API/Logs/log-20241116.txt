@@ -1,0 +1,10 @@
+2024-11-16 17:04:24.179 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-16 17:04:24.234 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-16 17:04:24.243 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-16 17:04:24.246 +05:30 [INF] Hosting environment: Development
+2024-11-16 17:04:24.248 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-16 17:05:36.173 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-16 17:05:36.215 +05:30 [INF] Now listening on: http://localhost:5164
+2024-11-16 17:05:36.225 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-16 17:05:36.227 +05:30 [INF] Hosting environment: Development
+2024-11-16 17:05:36.228 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\

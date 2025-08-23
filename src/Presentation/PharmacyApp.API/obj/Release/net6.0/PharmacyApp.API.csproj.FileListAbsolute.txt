@@ -1,0 +1,156 @@
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.csproj.AssemblyReference.cache
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.AssemblyInfoInputs.cache
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.AssemblyInfo.cs
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.csproj.CoreCompileInputs.cache
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\appsettings.Development.json
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\appsettings.json
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.staticwebassets.runtime.json
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.exe
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.deps.json
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.runtimeconfig.json
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.pdb
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.xml
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Castle.Core.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Dapper.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Dapper.Contrib.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Mapster.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Mapster.Core.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\MediatR.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\MediatR.Contracts.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\RestSharp.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Serilog.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Serilog.Sinks.File.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\System.Security.Permissions.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Application.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Data.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Domain.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.IOC.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Application.pdb
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.IOC.pdb
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Data.pdb
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Domain.pdb
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\staticwebassets.build.json
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\staticwebassets.development.json
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\scopedcss\bundle\PharmacyApp.API.styles.css
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.csproj.CopyComplete
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\refint\PharmacyApp.API.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.xml
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.pdb
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.genruntimeconfig.cache
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\ref\PharmacyApp.API.dll
+D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\appsettings.Development.json
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\appsettings.json
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.staticwebassets.runtime.json
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.exe
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.deps.json
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.runtimeconfig.json
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.API.xml
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Castle.Core.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Dapper.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Dapper.Contrib.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Mapster.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Mapster.Core.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\MediatR.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\MediatR.Contracts.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\RestSharp.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Serilog.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Serilog.Sinks.File.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\System.Data.SqlClient.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\System.Security.Permissions.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Application.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Data.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Domain.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.IOC.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Application.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.IOC.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Data.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\bin\Release\net6.0\PharmacyApp.Domain.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.csproj.AssemblyReference.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.AssemblyInfoInputs.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.AssemblyInfo.cs
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.csproj.CoreCompileInputs.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\staticwebassets.build.json
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\staticwebassets.development.json
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\scopedcss\bundle\PharmacyApp.API.styles.css
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.csproj.CopyComplete
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\refint\PharmacyApp.API.dll
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.xml
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.pdb
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\PharmacyApp.API.genruntimeconfig.cache
+E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\obj\Release\net6.0\ref\PharmacyApp.API.dll

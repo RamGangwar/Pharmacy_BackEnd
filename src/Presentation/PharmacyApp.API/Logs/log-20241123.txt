@@ -1,0 +1,113 @@
+2024-11-23 09:21:36.501 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-23 09:21:36.609 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-23 09:21:36.614 +05:30 [INF] Hosting environment: Production
+2024-11-23 09:21:36.619 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-23 12:21:58.982 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-23 12:21:59.034 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-23 12:21:59.037 +05:30 [INF] Hosting environment: Production
+2024-11-23 12:21:59.039 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-23 12:22:42.881 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"string","$type":"AuthenticationRequest"}
+2024-11-23 12:24:41.115 +05:30 [INF] Action :AddDiscount , Request :{"DiscountType":"Flat","DiscountValue":0.50,"StartDate":"2024-11-23T00:00:00.0000000","EndDate":"2024-11-26T00:00:00.0000000","MedicineId":1,"$type":"CreateDiscountsCommand"}
+2024-11-23 12:24:41.287 +05:30 [INF] Handle
+2024-11-23 12:24:41.961 +05:30 [ERR] Connection id "0HN8BHD9T202A", Request id "0HN8BHD9T202A:00000001": An unhandled exception was thrown by the application.
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Discounts__Medic__72C60C4A". The conflict occurred in database "PharmacyApp", table "dbo.Medicines", column 'MedicineId'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__126_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryMultipleAsync(IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1013
+   at SqlServerAdapter.InsertAsync(IDbConnection connection, IDbTransaction transaction, Nullable`1 commandTimeout, String tableName, String columnList, String parameterList, IEnumerable`1 keyProperties, Object entityToInsert) in /_/Dapper.Contrib/SqlMapperExtensions.Async.cs:line 380
+   at PharmacyApp.Data.Repository.GenericRepository`1.Add(TEntity entity) in D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\Repository\GenericRepository.cs:line 30
+   at PharmacyApp.Application.Commands.Discountss.CreateDiscountsHandler.Handle(CreateDiscountsCommand request, CancellationToken cancellationToken) in D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\Commands\Discountss\CreateDiscountsHandler.cs:line 36
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at PharmacyApp.API.Controllers.DiscountController.AddDiscount(CreateDiscountsCommand request) in D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\Controllers\DiscountController.cs:line 39
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+ClientConnectionId:9e2ba2f9-e764-4ea8-98e9-185a71b8149d
+Error Number:547,State:0,Class:16
+2024-11-23 12:25:17.608 +05:30 [INF] Action :AddDiscount , Request :{"DiscountType":"Flat","DiscountValue":0.50,"StartDate":"2024-11-23T00:00:00.0000000","EndDate":"2024-11-26T00:00:00.0000000","MedicineId":1,"$type":"CreateDiscountsCommand"}
+2024-11-23 12:25:17.610 +05:30 [INF] Handle
+2024-11-23 12:25:17.730 +05:30 [ERR] Connection id "0HN8BHD9T202C", Request id "0HN8BHD9T202C:00000001": An unhandled exception was thrown by the application.
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Discounts__Medic__72C60C4A". The conflict occurred in database "PharmacyApp", table "dbo.Medicines", column 'MedicineId'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__126_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryMultipleAsync(IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1013
+   at SqlServerAdapter.InsertAsync(IDbConnection connection, IDbTransaction transaction, Nullable`1 commandTimeout, String tableName, String columnList, String parameterList, IEnumerable`1 keyProperties, Object entityToInsert) in /_/Dapper.Contrib/SqlMapperExtensions.Async.cs:line 380
+   at PharmacyApp.Data.Repository.GenericRepository`1.Add(TEntity entity) in D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\Repository\GenericRepository.cs:line 30
+   at PharmacyApp.Application.Commands.Discountss.CreateDiscountsHandler.Handle(CreateDiscountsCommand request, CancellationToken cancellationToken) in D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\Commands\Discountss\CreateDiscountsHandler.cs:line 36
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at PharmacyApp.API.Controllers.DiscountController.AddDiscount(CreateDiscountsCommand request) in D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\Controllers\DiscountController.cs:line 39
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+ClientConnectionId:9e2ba2f9-e764-4ea8-98e9-185a71b8149d
+Error Number:547,State:0,Class:16
+2024-11-23 12:28:17.840 +05:30 [INF] Action :AddMedicine , Request :{"MedicineName":"Trifla Churn","GenericName":"Aayurvedic","Manufacturer":"Dabar","SupplierId":1,"Category":"Aayurvedic","Price":160,"StockQuantity":0,"ExpiryDate":"2025-11-23T00:00:00.0000000","$type":"CreateMedicinesCommand"}
+2024-11-23 12:28:17.846 +05:30 [INF] Handle
+2024-11-23 12:28:29.453 +05:30 [INF] Action :AddDiscount , Request :{"DiscountType":"Flat","DiscountValue":0.50,"StartDate":"2024-11-23T00:00:00.0000000","EndDate":"2024-11-26T00:00:00.0000000","MedicineId":1,"$type":"CreateDiscountsCommand"}
+2024-11-23 12:28:33.131 +05:30 [INF] Handle
+2024-11-23 15:41:34.952 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-23 15:41:34.995 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-23 15:41:34.997 +05:30 [INF] Hosting environment: Production
+2024-11-23 15:41:34.999 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-23 15:44:36.478 +05:30 [INF] Action :RefreshToken , Request :{"ExpiredToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiJSYW1HIiwiVXNlcklkIjoiMSIsIm5iZiI6MTczMjM0NDc3MywiZXhwIjoxNzMyMzQ4MzczLCJpYXQiOjE3MzIzNDQ3NzMsImlzcyI6IkNvcmVJZGVudGl0eSIsImF1ZCI6IkNvcmVJZGVudGl0eVVzZXIifQ.OP4wWODtBJlALEgAZR1lTRR2itN3tyOL3rvfvMOJa4I","RefreshToken":"+YPd7KV1WyvsOE9bXTFhy00jrqVgquugps3u9MI+OaHHNG66NWmiUhRRcfgJOL28Z7TrsfYTrIj5mLIDZ41lQQ==","IpAddress":"string","$type":"RefreshTokenRequest"}
+2024-11-23 15:45:13.676 +05:30 [INF] Action :AddPurchaseOrder , Request :{"PurchaseId":0,"SupplierId":1,"PurchaseDate":"2024-11-23T00:00:00.0000000","TotalAmount":80000,"Detail":[{"DetailId":0,"PurchaseId":0,"MedicineId":1,"Quantity":500,"Price":160,"TotalPrice":80000,"$type":"CreatePurchaseDetailCommand"}],"$type":"CreatePurchaseOrderCommand"}
+2024-11-23 15:45:13.695 +05:30 [INF] Handle
+2024-11-23 15:46:10.737 +05:30 [INF] Handle

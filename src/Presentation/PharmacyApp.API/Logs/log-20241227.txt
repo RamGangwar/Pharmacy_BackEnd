@@ -1,0 +1,59 @@
+2024-12-27 21:44:29.451 +05:30 [INF] Now listening on: https://localhost:5001
+2024-12-27 21:44:29.491 +05:30 [INF] Now listening on: http://localhost:5000
+2024-12-27 21:44:29.502 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-27 21:44:29.504 +05:30 [INF] Hosting environment: Development
+2024-12-27 21:44:29.506 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-12-27 21:45:38.926 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
+2024-12-27 21:45:39.849 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Security.Cryptography.CryptographicException: The key {6262a7c7-b116-47b6-b3d3-7c48b0bd82f6} was not found in the key ring. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.DataProtection.DataProtectionCommonExtensions.Unprotect(IDataProtector protector, String protectedData)
+   at PharmacyApp.Data.OtherRepository.EncryptRepository.Decrypt(String encrypted) in D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\OtherRepository\EncryptRepository.cs:line 34
+   at PharmacyApp.Data.Repository.JWTService.GetTokenAsync(AuthenticationRequest AuthenticationRequest, String ipAddress) in D:\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\Repository\JWTService.cs:line 44
+   at PharmacyApp.Application.Commands.Authentication.AuthenticationHandler.Handle(AuthenticationRequest request, CancellationToken cancellationToken) in D:\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\Commands\Authentication\AuthenticationHandler.cs:line 20
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at PharmacyApp.API.Controllers.HomeController.Login(AuthenticationRequest request) in D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\Controllers\HomeController.cs:line 39
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-12-27 21:51:07.781 +05:30 [INF] Action :ChangePassword , Request :{"IsForgotPassword":true,"CurrentPassword":"string","UserId":2,"UserName":"Ravi","NewPassword":"12345","$type":"ChangePasswordRequest"}
+2024-12-27 21:51:22.641 +05:30 [INF] Action :Login , Request :{"Username":"Ravi","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
+2024-12-27 21:51:35.582 +05:30 [INF] Action :GetSupplierList , Request :{"SupplierId":null,"CompanyName":null,"ContactName":null,"Email":null,"MobileNo":null,"Address":null,"PageIndex":0,"PageSize":20,"SkipRow":0,"SortBy":"CreatedOn","SortOrder":"Desc","$type":"GetSuppliersByFilterQuery"}
+2024-12-27 21:51:35.586 +05:30 [INF] Handle
+2024-12-27 21:52:42.379 +05:30 [INF] Action :GetSupplierList , Request :{"SupplierId":null,"CompanyName":null,"ContactName":"R","Email":null,"MobileNo":null,"Address":null,"PageIndex":0,"PageSize":20,"SkipRow":0,"SortBy":"CreatedOn","SortOrder":"Desc","$type":"GetSuppliersByFilterQuery"}
+2024-12-27 21:52:42.381 +05:30 [INF] Handle
+2024-12-27 21:53:28.928 +05:30 [INF] Action :GetSupplierList , Request :{"SupplierId":null,"CompanyName":null,"ContactName":null,"Email":null,"MobileNo":null,"Address":null,"PageIndex":0,"PageSize":20,"SkipRow":0,"SortBy":"CreatedOn","SortOrder":"Desc","$type":"GetSuppliersByFilterQuery"}
+2024-12-27 21:53:28.930 +05:30 [INF] Handle
+2024-12-27 21:54:08.809 +05:30 [INF] Action :GetSupplierList , Request :{"SupplierId":null,"CompanyName":null,"ContactName":null,"Email":null,"MobileNo":null,"Address":null,"PageIndex":0,"PageSize":20,"SkipRow":0,"SortBy":"CreatedOn","SortOrder":"Desc","$type":"GetSuppliersByFilterQuery"}
+2024-12-27 21:54:08.811 +05:30 [INF] Handle
+2024-12-27 21:54:19.702 +05:30 [INF] Action :GetSupplierList , Request :{"SupplierId":null,"CompanyName":null,"ContactName":null,"Email":null,"MobileNo":null,"Address":null,"PageIndex":0,"PageSize":20,"SkipRow":0,"SortBy":"CreatedOn","SortOrder":"Desc","$type":"GetSuppliersByFilterQuery"}
+2024-12-27 21:54:19.706 +05:30 [INF] Handle
+2024-12-27 21:54:22.220 +05:30 [INF] Action :GetSupplierList , Request :{"SupplierId":null,"CompanyName":null,"ContactName":"R","Email":null,"MobileNo":null,"Address":null,"PageIndex":0,"PageSize":20,"SkipRow":0,"SortBy":"CreatedOn","SortOrder":"Desc","$type":"GetSuppliersByFilterQuery"}
+2024-12-27 21:54:22.223 +05:30 [INF] Handle
+2024-12-27 21:54:42.738 +05:30 [INF] Action :GetSupplierList , Request :{"SupplierId":null,"CompanyName":null,"ContactName":null,"Email":null,"MobileNo":null,"Address":null,"PageIndex":0,"PageSize":20,"SkipRow":0,"SortBy":"CreatedOn","SortOrder":"Desc","$type":"GetSuppliersByFilterQuery"}
+2024-12-27 21:54:42.742 +05:30 [INF] Handle
+2024-12-27 21:55:03.662 +05:30 [INF] Action :GetSupplierList , Request :{"SupplierId":null,"CompanyName":"m","ContactName":null,"Email":null,"MobileNo":null,"Address":null,"PageIndex":0,"PageSize":20,"SkipRow":0,"SortBy":"CreatedOn","SortOrder":"Desc","$type":"GetSuppliersByFilterQuery"}
+2024-12-27 21:55:03.667 +05:30 [INF] Handle

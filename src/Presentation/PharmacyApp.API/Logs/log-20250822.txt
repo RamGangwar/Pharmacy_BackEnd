@@ -1,0 +1,46 @@
+2025-08-22 19:04:16.334 +05:30 [INF] Now listening on: http://localhost:4215
+2025-08-22 19:04:16.409 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-22 19:04:16.411 +05:30 [INF] Hosting environment: Development
+2025-08-22 19:04:16.414 +05:30 [INF] Content root path: E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2025-08-22 19:05:40.158 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"123456","IpAddress":"","$type":"AuthenticationRequest"}
+2025-08-22 19:05:51.955 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Security.Cryptography.CryptographicException: The key {6262a7c7-b116-47b6-b3d3-7c48b0bd82f6} was not found in the key ring. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.DataProtection.DataProtectionCommonExtensions.Unprotect(IDataProtector protector, String protectedData)
+   at PharmacyApp.Data.OtherRepository.EncryptRepository.Decrypt(String encrypted) in E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\OtherRepository\EncryptRepository.cs:line 34
+   at PharmacyApp.Data.Repository.JWTService.GetTokenAsync(AuthenticationRequest AuthenticationRequest, String ipAddress) in E:\Drive D Data\Working Project\PharmacyApp\src\Infrastructure\PharmacyApp.Data\Repository\JWTService.cs:line 44
+   at PharmacyApp.Application.Commands.Authentication.AuthenticationHandler.Handle(AuthenticationRequest request, CancellationToken cancellationToken) in E:\Drive D Data\Working Project\PharmacyApp\src\Core\PharmacyApp.Application\Commands\Authentication\AuthenticationHandler.cs:line 20
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at PharmacyApp.API.Controllers.HomeController.Login(AuthenticationRequest request) in E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\Controllers\HomeController.cs:line 39
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2025-08-22 19:07:29.340 +05:30 [INF] Now listening on: http://localhost:4215
+2025-08-22 19:07:29.391 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-22 19:07:29.394 +05:30 [INF] Hosting environment: Development
+2025-08-22 19:07:29.398 +05:30 [INF] Content root path: E:\Drive D Data\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2025-08-22 19:07:35.218 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
+2025-08-22 19:08:02.604 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}

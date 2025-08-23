@@ -1,0 +1,13 @@
+2024-11-25 09:25:45.166 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-25 09:25:45.212 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-25 09:25:45.214 +05:30 [INF] Hosting environment: Production
+2024-11-25 09:25:45.215 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-25 09:26:53.307 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
+2024-11-25 09:31:07.546 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
+2024-11-25 09:44:10.157 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
+2024-11-25 20:25:11.855 +05:30 [INF] Now listening on: https://localhost:7164
+2024-11-25 20:25:11.920 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-25 20:25:11.922 +05:30 [INF] Hosting environment: Development
+2024-11-25 20:25:11.924 +05:30 [INF] Content root path: D:\Working Project\PharmacyApp\src\Presentation\PharmacyApp.API\
+2024-11-25 20:25:20.594 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
+2024-11-25 20:49:27.577 +05:30 [INF] Action :Login , Request :{"Username":"RamG","Password":"12345","IpAddress":"","$type":"AuthenticationRequest"}
